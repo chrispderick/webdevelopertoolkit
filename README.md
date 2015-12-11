@@ -9,10 +9,10 @@ Installation
 
 Download the file at : 
 * 1. Open Extension page on chrome by going to settings->More Tools->Extensions.
- ![alt tag](https://raw.github.com/chrispderick/webdevelopertoolkit/master/img/extensions.jpg)=200px
+ ![alt tag](https://raw.github.com/chrispderick/webdevelopertoolkit/master/img/extensions.jpg=200px)
 * 2. Unzip the downloaded file.
 * 3. Drag and Drop the WebDevToolKit.crm file on to this page and click on Add Extension
-  ![alt tag](https://raw.github.com/chrispderick/webdevelopertoolkit/master/img/addextension.jpg)=200px
+  ![alt tag](https://raw.github.com/chrispderick/webdevelopertoolkit/master/img/addextension.jpg=200px)
 
 
 Announcements
