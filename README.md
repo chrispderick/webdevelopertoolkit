@@ -7,7 +7,7 @@ The extension is available for Chrome and Firefox, and will run on any platform 
 Installation
 ============
 
-Download the file at : 
+Download the file at : https://raw.githubusercontent.com/chrispderick/webdevelopertoolkit/master/plugin/WebDeveloperToolKit.zip
 ### 1. Open Extension page on chrome by going to settings->More Tools->Extensions.
  ![alt tag](https://raw.github.com/chrispderick/webdevelopertoolkit/master/img/extensions.jpg)
 ### 2. Unzip the downloaded file.
